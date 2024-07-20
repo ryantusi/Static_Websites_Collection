@@ -1,2 +1,2 @@
-# Full_Stack_Career_Path_Projects
+# Static_Websites_Collection
 Under Development

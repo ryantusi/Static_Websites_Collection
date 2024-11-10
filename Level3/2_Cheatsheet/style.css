@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: auto;
+    background-color: ivory;
+  }
+  header {
+    font-family: Graduate, sans-serif;
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+    background-color: mediumpurple;
+    color: lavender;
+  }
+  section {
+    margin: 20px;
+    text-align: center;
+    font-family: "Space Mono", monospace;
+    border: 3px dotted gray;
+    padding: 5px;
+  }
+  section h3 {
+    background-color: lightblue;
+  }
+  table{
+    margin: 0 auto;
+  }
+  th, td {
+    padding: 10px;
+    margin: 5px;
+  }
+  th{
+    background-color: pink;
+  }
+  code{
+    background-color: peachpuff;
+    padding: 5px;
+  }
+  .des {
+    text-align: justify !important;
+  }
+  footer {
+    background-color: peachpuff;
+    text-align: right;
+    font-family: Graduate, sans-serif;
+    padding: 10px;
+  }
